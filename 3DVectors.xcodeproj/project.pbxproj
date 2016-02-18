@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		B47FB3531AE16BD8008B24D1 /* 3DVectors */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 3DVectors; sourceTree = BUILT_PRODUCTS_DIR; };
 		B47FB3561AE16BD8008B24D1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		B47FB35D1AE16C15008B24D1 /* Vector3D.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Vector3D.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				B47FB3561AE16BD8008B24D1 /* main.cpp */,
+				B47FB35D1AE16C15008B24D1 /* Vector3D.h */,
 			);
 			path = 3DVectors;
 			sourceTree = "<group>";
